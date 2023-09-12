@@ -1,0 +1,45 @@
+<html>
+          <head><title>wish list</title></head>
+          <body>
+          <ol start="1">
+                        <li>completing diploma</li>
+                        <li>completing engg</li>
+                        <li>accomplishing job</li>
+ </ol>
+ <ul type="square">
+         <li>completing diploma</li>
+         <li>completing engg</li>
+         <li>accomplishing job</li>
+</ul>
+<center><table border="2">
+           <tr>
+                  <th>challenges</th>
+                  <th>opportunities</th>
+                  <th>images</th>
+         </tr>
+         <tr>
+                <td>FCD</td>
+                <td>good college</td>
+                <td>
+                        <img src="jss.jpg"height="100"width="100"></img>
+      </td>
+  </tr>
+     <tr>
+            <d>FCD</td>
+            <td>good college</td>
+            <td>
+                    <img  src="nie.jpg"height"100"width="100"></img>
+                           </td>
+                   </tr>
+            <tr>
+            </td>
+<td>pass</td>
+<td>good job</td>
+ <td>
+     <img src="cpc.jpg"height="100"width="100"></img>
+   </td>
+   </tr>
+  </table>
+  </center>
+  </body>
+  </html>
